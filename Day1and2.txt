@@ -1,0 +1,207 @@
+﻿Geetings from NIIT
+
+Welcome to the course Python Programming and Data Exploration using Python
+
+Python Programming
+Data Science--Data Exploration
+
+Course Code:PPDEP
+Batch Code: S210066
+Faculty: Sangeetha
+Email id: Sangeetha.B@niit.com
+Class days and Timing: MON-SAT---11AM-1PM(M T Th Fr-Theory/ W and S--Practical)
+
+Browser---
+www.training.com--Login----at 11 Join the session
+Training.com----e-library for books
+For Lab---Online Learning---Practice Exercises
+Discussion Forum----chat messages and notes sharing
+
+N-Student mobile App
+--Schedule
+--Discussion Forum----chat messages and notes sharing
+--Quiz
+
+Python Software--Open source
+
+way 1:
+www.python.org/downloads
+
+any Python IDE's--IDLE/spyder/jupyter notebook/pycharm/eclipse/visualstudio  +python plug ins
+
+way 2:
+
+Anaconda Distribution--python+spyder+jupyter+Machine learning libaries
+
+Python Software + IDE's---->Work on it
+
+Python+IDLE
+Python+Pycharm
+Python+Spyder
+
+Video Source----->Mx Player
+Video Source----->VLC media Player
+Video Source----->Windows Media player
+
+Python
+What is Python ??? is the Programming Language
+Python is General purpose Programming Language
+Python is High Level Programming Language
+Python is Procedural/Functional Programming Language
+Python is OOPS Programming Language
+
+Software(Applications)(APPS)<---------------->Programming Language
+
+High end Rich technology
+
+Computer---Desktop/Laptop/Tab/Smart phones
+-----Hardware's
+-----OS--software---Application Software
+Multitasking----installing Software
+
+Software are developed  with the help of programming languages.
+
+Python is Programming Language
+Python is General purpose Programming Language
+----->GUI /Desktop Applications
+----->Web Designing and Web Application
+----->Gaming Devlopment
+----->System Admin work
+----->Complex financial calculations
+----->Data science
+------>Scientific Applications and much more...........
+
+Python is High Level Programming Language---English
+
+Low level Prog Lang---machine 0101000011110/Symbolic code
+High level Prog Lang--English
+
+----Compiler-
+Source  code(.py)----compiler---------machine code(010001111)/Object code(.pyc)
+
+----Library Files----
+In C language-----
+printf("welcome to c")
+
+In C++ language
+cout<<"welcome to c++")
+
+In Java
+System.out.println("Welcome to java!!!");
+
+IN Python
+print("Welcome to PYTHON!!!")
+
+xyz()---machine /environment will undestand xyz only by referring library files
+
+Python is Procedural/Functional/Modular Programming Language
+--Module--breaking down a complex problem into smaller units
+in a company--when a project comes----Team of people
+-----functions --reuse
+
+step by step procedure/rule-----OOPS
+
+When we want any software
+.exe / .msi/ APK files--download and install
+
+C----->program Files--->folder(supporting library files for running the application)
+
+likewise for developing any application using programming language we need supporting
+library files
+
+History of Python::: 1991
+Guido Van Russam--Netherland based Scientist
+
+Why C language C??
+B language/BCPL-----
+
+why it has been named as Python??
+Monty Python
+
+python 1.0
+python 2.x
+Latest Version---Python 3.8.3
+
+Write Once Run Anywhere
+Once Python code we can run in any machine(OS)
+Open source
+Platform Independent
+Nowadays Python s inbuilt with Linux/Mac Os
+But for Windows we want to download
+
+integer---whole no
+floating ---precision point no's
+
+a=1
+b=1/2
+
+what is the answer????
+in other languages b=0,  but in python answer is 0.5--strong data type support
+
+machine wil take a as integer and b as float
+
+Lets code in Python
+1.Interactive Mode
+--type in command Prompt--CUI
+open-cmd---type python
+
+2.Scripting Mode--program based---use any IDE's ----
+
+i will show both IDLE and Spyder
+
+Exercises:
+'''print('Welcome to PYTHON IDLE')
+print("Hello All")
+print("""Day 1 Demos""")
+number1=50
+number2=100
+print('Addition Answer---',(number1+number2))
+print('Addition of %d and %d is %d'%(number1,number2,(number1+number2)))
+price=25.70
+name='Nivetha'
+print('%s bought juice for %.2f price'%(name,price))
+
+#customized output printing
+#formatting Printing  %d %f
+#single line comment
+
+Multi line commenting
+%d ---- integer
+%f ---- floating    %c---character(one char)
+%s ---- string(group of charaters'''
+
+name1='Abeer'
+name2='Anirban'
+print('%s and %s are best friends'%(name1,name2))
+
+grade='B'
+
+print('Student %s scored %c grade'%(name2,grade))
+
+********************************************************************************
+
+Mon Tue Thu Fri--Theory class
+
+Wed and Sat --Lab Practice
+
+1.Please download Python/Anaconda Framework
+
+2.Try Interactive Mode through Command Prompt
+---python--just check print("hello world")
+
+3.using Spyder or IDLE--Start Lab programs
+
+Try
+1.Write a Python  program for simple hello world
+2.Write a Python  program for formatted output using
+% notation for all 4 data types
+3.Addition of two numbers
+
+Start doing, any doubt/issue pls ping me..webinar app
+ is having option of taking your machine in remote
+ and i can check
+
+Also Complete www.training.com--My online learning--
+-Practice exercises first 2 exercises in chapter 1
+
+Those who attending session for first time pls ping me
